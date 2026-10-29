@@ -1,5 +1,7 @@
 # Aroma Grill landing page
 
+[Live website](https://rawdre.github.io/aroma-grill-demo/)
+
 A responsive, dependency-free website concept for Aroma Grill Brazilian BBQ. Open `index.html` using a static server. GitHub Pages serves the repository root.
 
 ## Features
